@@ -1,5 +1,7 @@
 ## Seeking Science Monthly Newsletter
 
+[Subscribe](https://www.surveypage.com/seekingscience){: .btn}
+
 ### September Newsletter
 <object data="September_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="September_Newsletter.pdf">
