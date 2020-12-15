@@ -2,6 +2,13 @@
 
 [Subscribe](https://www.surveypage.com/seekingscience){: .btn}
 
+### December Newsletter
+<object data="Dec_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="Dec_Newsletter.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="Dec_Newsletter.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### November Newsletter
 <object data="November_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="November_Newsletter.pdf">
