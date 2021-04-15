@@ -2,6 +2,13 @@
 
 [Subscribe](https://www.surveypage.com/seekingscience){: .btn}
 
+### April Newsletter
+<object data="April_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="April_Newsletter.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="April_Newsletter.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### March Newsletter
 <object data="March_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="March_Newsletter.pdf">
