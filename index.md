@@ -2,63 +2,70 @@
 
 [Subscribe](https://www.surveypage.com/seekingscience){: .btn}
 
-### May Newsletter
+### February 2022 Newsletter
+<object data="2022/Feb.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="2022/Feb.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2022/Feb.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### May 2021 Newsletter
 <object data="2021/May_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2021/May_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2021/May_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### April Newsletter
+### April 2021 Newsletter
 <object data="2021/April_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2021/April_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2021/April_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### March Newsletter
+### March 2021 Newsletter
 <object data="2021/March_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2021/March_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2021/March_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### February Newsletter
+### February 2021 Newsletter
 <object data="2021/Feb_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2021/Feb_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2021/Feb_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### January Newsletter
+### January 2021 Newsletter
 <object data="2021/Jan_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2021/Jan_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2021/Jan_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### December Newsletter
+### December 2020 Newsletter
 <object data="2020/Dec_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2020/Dec_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2020/Dec_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### November Newsletter
+### November 2020 Newsletter
 <object data="2020/November_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2020/November_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2020/November_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### October Newsletter
+### October 2020 Newsletter
 <object data="2020/October_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2020/October_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2020/October_Newsletter.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
-### September Newsletter
+### September 2020 Newsletter
 <object data="2020/September_Newsletter.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2020/September_Newsletter.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2020/September_Newsletter.pdf">Download PDF</a>.</p>
