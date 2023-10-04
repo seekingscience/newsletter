@@ -1,6 +1,14 @@
 ## Seeking Science Monthly Newsletter
 [Subscribe](https://www.surveypage.com/seekingscience){: .btn}
-September 2023 Newsletter
+
+### October 2023 Newsletter
+<object data="2023/Oct.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="2023/Oct.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2023/Oct.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### September 2023 Newsletter
 <object data="2023/Sept.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2023/Sept.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2023/Sept.pdf">Download PDF</a>.</p>
