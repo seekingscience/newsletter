@@ -1,6 +1,27 @@
 ## Seeking Science Monthly Newsletter
 [Subscribe](https://www.surveypage.com/seekingscience){: .btn}
 
+### Dec 2024 Newsletter
+<object data="2024/Dec.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="2024/Dec.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2024/Dec.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### Nov 2024 Newsletter
+<object data="2024/Nov.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="2024/Nov.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2024/Nov.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+### Oct 2024 Newsletter
+<object data="2024/Oct.pdf" type="application/pdf" width="700px" height="800px">
+    <embed src="2024/Oct.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="2024/Oct.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ### Sept 2024 Newsletter
 <object data="2024/Sept.pdf" type="application/pdf" width="700px" height="800px">
     <embed src="2024/Sept.pdf">
